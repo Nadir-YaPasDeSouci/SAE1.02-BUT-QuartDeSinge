@@ -13,3 +13,5 @@ Le dictionnaire est au départ un fichier texte qu'on traite autrement dans le p
 ## Important
 
 Vous êtes invités vivement à consulter le rapport de la SAE pour plus de détails. Il est impératif de le lire.
+Pour jouer, veuillez utiliser la ligne de commande. Exemple d'entrée pour faire jouer 2 humains : SINGE.exe HH.
+
